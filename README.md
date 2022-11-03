@@ -2,6 +2,8 @@
 
 As learned from <a href="https://github.com/cleverprogrammers"> Clever Programmers </a>  
 
+An extremely useful app for security and safety of the user, and their loved ones, and society as a whole. In the pandemic crisis, various applications have been beyond life-saving; and this is a tiny, humble tribute to the same.
+
 ## Available Scripts
 
 In the project directory, you can run:
